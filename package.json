@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon backend/server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "type": "module",
+  "keywords": [],
+  "author": "Pawan Kumar",
+  "license": "ISC",
   "description": "",
   "dependencies": {
     "dotenv": "^16.4.7",
